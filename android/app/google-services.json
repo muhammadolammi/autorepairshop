@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "820610208005",
+    "project_id": "autorepairshop-82442",
+    "storage_bucket": "autorepairshop-82442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820610208005:android:77fde48a6835e5b865676c",
+        "android_client_info": {
+          "package_name": "wixforum.com.autorepairshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820610208005-vktd36qcfljvqmvqp0kv4jhjengtep63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPnCRbdB-at96Ojs09Le9OWev0Q0EDw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820610208005-vktd36qcfljvqmvqp0kv4jhjengtep63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820610208005-o25km1fvof7h364us7log86uta81hh59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wixforum.com.autorepairshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
